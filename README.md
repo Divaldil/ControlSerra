@@ -9,6 +9,7 @@
 
 
 **Resumo do Projeto**
+--
   O projeto será um sistema de gerenciamento de uma serralheria onde teremos o controle de estoque, criação de orçamento, e relatórios do financeiro de compra e venda de produtos. O sistema possuirá uma tela de menu principal, que permitirá o acesso às demais telas do projeto. O sistema também possuirá um cadastro para os funcionários.
 
   Primeiramente o sistema possuirá uma tela para visualizar, alterar e criar orçamentos, os quais permite calcular os gastos para cada serviço. Um mesmo cliente poderá ter vários orçamentos ligados a ele. A partir dos dados inseridos nesta tela o usuário poderá gerar um relatório em forma de impressão ou PDF, o qual poderá ser enviado para os seus clientes. Cada orçamento é numerado para facilitar a gestão de dados para a tomada de decisão.
@@ -30,7 +31,7 @@
   Será possível realizar relatórios mensais e anuais a partir de uma tela que usará os dados dos orçamentos dentro dos intervalos de tempo selecionados. Este relatório permitirá visualizar os gastos e os lucros obtidos e será muito importante para a obtenção de dados para a tomada de decisão.
 
 
-### Tecnologias que serão utilizadas: 
+### Tecnologias que serão utilizadas 
 1. C# 
 2. Visual Studio 2022 
 3. .NET 
