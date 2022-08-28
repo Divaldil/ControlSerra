@@ -1,7 +1,10 @@
 # ControlSerra
-Projeto para Engenharia de Software II
+**## Projeto para Engenharia de Software II**
 
-Nome dos membros: Antonio Carlos, Henrique Vidotto, Matheus Divaldil.
+### Nome dos membros:
+* [Antonio Carlos](https://github.com/antonioN313)
+* [Henrique Vidotto](https://github.com/HenriqueVidotto) 
+* [Matheus Divaldil](
 
 
 Título do Projeto: Control Serra
@@ -28,5 +31,3 @@ O sistema também utilizará um banco de dados que estará conectado ao sistema 
 Será possível realizar relatórios mensais e anuais a partir de uma tela que usará os dados dos orçamentos dentro dos intervalos de tempo selecionados. Este relatório permitirá visualizar os gastos e os lucros obtidos e será muito importante para a obtenção de dados para a tomada de decisão.
 
 Tecnologias que serão utilizadas: C#, Visual Studio 2022, .NET, SQL server.
-
-Link do Github: Control Serra
