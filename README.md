@@ -5,7 +5,7 @@
 * [Antonio Carlos](https://github.com/antonioN313)
 * [Henrique Vidotto](https://github.com/HenriqueVidotto) 
 * [Matheus Divaldil](https://github.com/Divaldil)
-
+* [Guilherme Fidalgo](https://github.com/Pepelepew0000)
 
 
 **Resumo do Projeto**
