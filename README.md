@@ -26,9 +26,10 @@
 
   O sistema precisará ter uma tela dedicada para os cálculos das dimensões das barras utilizadas para o serviço. Esta tela servirá para auxiliar nas medidas dos cortes e também permite visualizar a quantidade restante das barras, medidas em metros.
 
-  O sistema também utilizará um banco de dados que estará conectado ao sistema diretamente e poderá ser manipulado para armazenar os dados do estoque e dos orçamentos em tabelas.Cada alteração, os dados serão automaticamente atualizados 
+  O sistema também utilizará um banco de dados que estará conectado ao sistema diretamente e poderá ser manipulado para armazenar os dados do estoque e dos orçamentos em tabelas. Os dados serão atualizados automaticamente para cada alteração.
 
   Será possível realizar relatórios mensais e anuais a partir de uma tela que usará os dados dos orçamentos dentro dos intervalos de tempo selecionados. Este relatório permitirá visualizar os gastos e os lucros obtidos e será muito importante para a obtenção de dados para a tomada de decisão.
+
 
 
 ### Tecnologias que serão utilizadas 
